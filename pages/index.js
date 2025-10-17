@@ -16,14 +16,14 @@ export default function Home() {
 
       <p>
         <strong>Brendan Mannion</strong><br />
-        [Your Address in Berlin]<br />
-        Email: <a href="mailto:[Your Email Address]">[Your Email Address]</a><br />
+        Sonnenallee 12, Neukolln, Berlin, Germany<br />
+        Email: <a href="mailto:bman3210@gmail.com">bman3210@gmail.com</a><br />
         LUCID-ID: DE3649740821843<br />
         Steuernummer: Pending – will be updated upon receipt<br />
         Mitglied der IHK Berlin
       </p>
 
-      <p>Verantwortlich für den Inhalt: Brendan Mannion, [Your Address in Berlin]</p>
+      <p>Verantwortlich für den Inhalt: Brendan Mannion, Sonnenallee 12, Neukolln, Berlin, Germany</p>
 
       </main>
 
