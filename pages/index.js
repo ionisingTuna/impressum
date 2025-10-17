@@ -11,10 +11,19 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+      <h1>Impressum</h1>
+      <p>Angaben gemäß § 5 TMG</p>
+
+      <p><strong>Brendan Mannion</strong><br>
+      [Your Address in Berlin]<br>
+      Email: <a href="mailto:[Your Email Address]">[Your Email Address]</a><br>
+      LUCID-ID: DE3649740821843<br>
+      Steuernummer: Pending – will be updated upon receipt<br>
+      Mitglied der IHK Berlin<br>
+      </p>
+
+      <p>Verantwortlich für den Inhalt: Brendan Mannion, [Your Address in Berlin]</p>
+
       </main>
 
       <Footer />
